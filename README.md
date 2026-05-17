@@ -1,3 +1,16 @@
-#datos/ (si aplica datos externos como CSV/JSON)
+# Proyecto de Automation Testing - Preentrega
 
-#reports/ (reportes HTML y capturas)
+###Autor: 
+Solange Cruz
+
+###Archivos
+├── test/ 
+  ├──test_carrito
+  ├──test_login
+  ├──test_navegacion
+├── utils
+  ├──helpers
+├──conftest
+
+
+pip install -r requirements.txt
