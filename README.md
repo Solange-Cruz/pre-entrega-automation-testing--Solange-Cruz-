@@ -1,2 +1,3 @@
-# pre-entrega-automation-testing--Solange-Cruz-
-Pre entrega de Trabajo Final Automation Testing - Talento Tech
+#datos/ (si aplica datos externos como CSV/JSON)
+
+#reports/ (reportes HTML y capturas)
